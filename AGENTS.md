@@ -1,4 +1,18 @@
-# Repository Guidelines
+# DevStash
+
+A developer knowledge hub for snippetgs, commands, prompts, notes, files, images, links and custom types.
+
+## Context Files
+
+Read the following to get the full context of the project:
+
+- @context/project-overview.md
+- @context/coding-standarts.md
+- @context/ai-interaction.md
+- @context/current-feature.md
+
+
+
 
 ## Project Structure & Module Organization
 
