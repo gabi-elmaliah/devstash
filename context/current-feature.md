@@ -6,7 +6,7 @@
 
 <!-- Not Started|In Progress|Completed -->
 
-Not Started
+Completed
 
 ## Goals
 
@@ -25,3 +25,5 @@ Not Started
 - Added Dashboard UI Phase 1 as the active feature and marked it in progress
 - Implemented Dashboard UI Phase 1 with ShadCN setup, `/dashboard`, dark mode, and shell placeholders
 - Completed Dashboard UI Phase 1
+- Added Dashboard UI Phase 2 as the active feature and marked it in progress
+- Completed Dashboard UI Phase 2 with a collapsible sidebar, mobile drawer, item type links, collection groups, mock data counts, item colors, and user area
